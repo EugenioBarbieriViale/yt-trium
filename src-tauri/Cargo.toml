@@ -1,3 +1,6 @@
+[workspace]
+members = ["backend"]
+
 [package]
 name = "yt-trium"
 version = "0.1.0"
